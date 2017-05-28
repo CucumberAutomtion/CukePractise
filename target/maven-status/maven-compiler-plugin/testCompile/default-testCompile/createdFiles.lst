@@ -1,0 +1,5 @@
+com\cukepractise\base\TestBase.class
+com\cukepractise\pages\Userpage.class
+com\cukepractise\testcases\StepDefinitions.class
+com\cukepractise\pages\HomePage.class
+com\cukepractise\runner\Runner.class

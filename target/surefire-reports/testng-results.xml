@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30451" started-at="2017-05-23T18:21:38Z" finished-at="2017-05-23T18:22:08Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cukepractise.runner.Runner@735f7ae5]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="30451" started-at="2017-05-23T18:21:38Z" finished-at="2017-05-23T18:22:08Z">
+      <class name="com.cukepractise.runner.Runner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.cukepractise.runner.Runner@735f7ae5]" name="setUpClass" is-config="true" duration-ms="291" started-at="2017-05-23T19:21:38Z" finished-at="2017-05-23T19:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cukepractise.runner.Runner@735f7ae5]" name="feature" duration-ms="30029" started-at="2017-05-23T19:21:38Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2017-05-23T19:22:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Validating Victor Homepage]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.cukepractise.runner.Runner@735f7ae5]" name="tearDownClass" is-config="true" duration-ms="12" started-at="2017-05-23T19:22:08Z" finished-at="2017-05-23T19:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.cukepractise.runner.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
