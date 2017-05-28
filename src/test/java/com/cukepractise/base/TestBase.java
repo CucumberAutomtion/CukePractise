@@ -31,5 +31,8 @@ public class TestBase {
 	{
 		driver.get(url);
 	}
-
+    public void text()
+    {
+    	System.out.println("naveen");
+    }
 }
