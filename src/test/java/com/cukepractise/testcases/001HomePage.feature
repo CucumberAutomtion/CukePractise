@@ -9,6 +9,6 @@ And User click on Signin button
 Then User navigates victor Userhome page
 
 Examples:
-|Browser|Victor              |Username              |Password|
-|firefox|https://google.co.in|naveen.stage@gmail.com|******|
+|Browser|Victor                                   |Username              |Password|
+|firefox|https://v3-staging.flyvictor.com/en-gb/#/|naveen.stage@gmail.com|Testing2|
                       
