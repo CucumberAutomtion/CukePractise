@@ -10,5 +10,5 @@ Then User navigates victor Userhome page
 
 Examples:
 |Browser|Victor                                   |Username              |Password|
-|firefox|https://v3-staging.flyvictor.com/en-gb/#/|naveen.stage@gmail.com|Testing2|
+|firefox|https://v3-staging.flyvictor.com/en-gb/#/|naveen@gmail.com|Testing2|
                       
